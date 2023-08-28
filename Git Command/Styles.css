@@ -4,3 +4,6 @@
 .description{
 
 }
+ul:nth-of-type(4) {
+    list-style-type: decimal;
+}
