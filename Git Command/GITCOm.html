@@ -17,46 +17,56 @@
         <li>git add</li>
         <ul>Adds changes from your working directory to the staging area, 
             preparing them for the next commit.</ul><br>
-        <ul></ul>
+        <ul>Example: git add file.txt (Stage changes in the file file.txt for the next commit.)</ul>
         <li>git branch</li>
         <ul>Description: Lists, creates, or deletes branches. It helps manage 
             different lines of development in your project.</ul><br>
-        <ul></ul>
+        <ul>Example:
+            git branch (List all branches.)
+            git branch new-feature (Create a new branch named new-feature.)
+            git branch -d old-feature (Delete the branch old-feature.)</ul>
         <li>git checkout</li>
         <ul>Description: Switches between branches, commits, or tags, 
             allowing you to work on a specific snapshot of your project.</ul><br>
-        <ul></ul>
+        <ul>Example:
+            git checkout main (Switch to the main branch.)
+            git checkout some-commit-hash (Switch to a specific commit using its hash.)</ul>
         <li>git pull</li>
         <ul>Description: Fetches changes from a remote repository and 
             integrates them into your local branch.</ul><br>
-        <ul></ul>
+        <ul>Description: Fetches changes from a remote repository and integrates them into your local branch.
+            Example: git pull origin main (Fetch and merge changes from the main branch on the remote repository.)</ul>
         <li>git push</li>
         <ul>Description: Sends your committed changes to a remote 
             repository, updating it with your latest work.</ul><br>
-        <ul></ul>
+        <ul>Example: git push origin new-feature (Push the local commits from the new-feature branch to the remote repository.)</ul>
         <li>git rebase</li>
         <ul>Description: Integrates changes from one branch onto 
             another by moving, applying, or combining commits.</ul><br>
-        <ul></ul>
+        <ul>Example: git rebase main (Reapply commits from the current branch on top of the main branch.)</ul>
         <li>git rebase -i</li>
         <ul>Description: Interactively rewrites commit history, allowing you to squash, edit, reorder, or drop commits.</ul><br>
-        <ul></ul>
+        <ul>Example: git rebase -i HEAD~3 (Interactively rebase the last 3 commits to modify, squash, or reorder them.)</ul>
         <li>git reflog</li>
         <ul>Description: Displays a log of all references (branches, commits, etc.) that
              have been updated, helping you recover lost work.</ul><br>
-        <ul></ul>
+        <ul>Example: git reflog (View a history of recent branch updates and commits, useful for undoing mistakes.)</ul>
         <li>git status</li>
         <ul>Description: Shows the current state of your working directory, indicating 
             which files are modified, staged, or untracked.</ul><br>
-        <ul></ul>
+        <ul>Description: Shows the current state of your working directory.
+            Example: git status (Display the status of tracked and untracked files in your repository.)</ul>
         <li>git remote</li>
         <ul>Description: Manages remote repositories, allowing you to add, remove, or list 
             remotes associated with your project.</ul><br>
-        <ul></ul>
+        <ul>Example:
+            git remote -v (List the URLs of all remote repositories.)
+            git remote add upstream <upstream_repo_url> (Add a remote named upstream with the specified URL.)</ul>
         <li>git merge</li>
         <ul>Description: Combines changes from different branches, integrating them into 
             the current branch.</ul><br>
-        <ul></ul>
+        <ul>Example:
+            git merge feature-branch (Merge changes from the feature-branch into the current branch.)</ul>
         </ul>
     </div>
 </div>
