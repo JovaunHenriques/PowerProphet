@@ -2,10 +2,16 @@
 padding: 0%;
 margin: auto;
 }
-body{
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
+        overflow: hidden;
 }
 .description{
 padding: 0%;
@@ -16,9 +22,11 @@ h1 {
 }
 ul:nth-of-type {
     list-style-type: decimal;
+    color: darkcyan;
 }
 li:nth-of-type {
     list-style-type: decimal;
+    color: #1275a3;
 }
 @mixin sp-layout {
     @media screen and (max-width: 750px) {
@@ -51,7 +59,7 @@ li:nth-of-type {
   }
   
   .star {
-    $star-count: 50;
+    star-count: 50;
     --star-color: var(--primary-color);
     --star-tail-length: 6em;
     --star-tail-height: 2px;
