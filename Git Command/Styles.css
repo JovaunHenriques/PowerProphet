@@ -7,17 +7,22 @@
   margin: auto;
   overflow: auto;
 }
+h2{
+  text-align:center;
+  color: #278fb8;
+  text-decoration-line: underline;
+}
 p{
-  text-align: center;
+  text-align:center;
   color: #278fb8;
 }
 h1{
   padding: 10px;
   background-color: #229ed8;
   text-align: center;
-  outline-offset: 2px;
+  outline-offset: 0px;
   outline-style: ridge;
-  outline-color: #080822;
+  outline-color: #ffffff;
   overflow: auto;
 }
 body {
@@ -34,6 +39,8 @@ body {
 .description {
   padding: 0%;
   margin: auto;
+  outline-style: groove;
+  outline-color: #ffffff;
 }
 ul{
   color: #1b7ba8;
