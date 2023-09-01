@@ -39,8 +39,7 @@ body {
 .description {
   padding: 0%;
   margin: auto;
-  outline-style: groove;
-  outline-color: #ffffff;
+  box-sizing: border-box;
 }
 ul{
   color: #1b7ba8;
