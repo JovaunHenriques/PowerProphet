@@ -18,20 +18,21 @@ Implement a verification system for user-submitted data to maintain accuracy.
 4. Calculation Engine:
 - A robust calculation engine that accurately estimates power consumption based on user input and the appliance database.
 Provide the option to calculate daily, weekly, or monthly energy usage.
-
-5. Energy Cost Estimation:
-- Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
+5. Responsive Design:
+- Ensure your website is mobile-friendly and works well on various devices and screen sizes.
+  
 <details><br>
-6. Energy Efficiency Recommendations:
+  
+  6. Energy Cost Estimation:
+- Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
+  
+  7. Energy Efficiency Recommendations:
 - Offer tips and suggestions on how users can reduce their energy consumption and save on electricity bills.
 Provide information on energy-efficient appliances and their benefits.
 
-7. User Accounts and Profiles:
+8. User Accounts and Profiles:
 - Implement user registration and profiles to save their appliance data and usage history.
 Enable users to track their energy consumption trends over time.
-
-8. Responsive Design:
-- Ensure your website is mobile-friendly and works well on various devices and screen sizes.
 
 9. Scalable Infrastructure:
 Build your website on a scalable cloud infrastructure to handle increasing user traffic and data storage needs as the platform grows.
