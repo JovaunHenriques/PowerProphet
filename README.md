@@ -21,7 +21,7 @@ Provide the option to calculate daily, weekly, or monthly energy usage.
 
 5. Energy Cost Estimation:
 - Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
-
+<details>
 6. Energy Efficiency Recommendations:
 - Offer tips and suggestions on how users can reduce their energy consumption and save on electricity bills.
 Provide information on energy-efficient appliances and their benefits.
@@ -32,7 +32,7 @@ Enable users to track their energy consumption trends over time.
 
 8. Responsive Design:
 - Ensure your website is mobile-friendly and works well on various devices and screen sizes.
-
+</details>
 9. Scalable Infrastructure:
 Build your website on a scalable cloud infrastructure to handle increasing user traffic and data storage needs as the platform grows.
 
