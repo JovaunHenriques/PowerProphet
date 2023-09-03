@@ -60,6 +60,6 @@ Build your website on a scalable cloud infrastructure to handle increasing user 
 - Develop a mobile app version of your website for on-the-go access.
 
 Remember to continuously update and improve your website based on user feedback and emerging technologies to ensure its long-term scalability and relevance in the field of energy efficiency.
-</details>
+</details><br>
 ## Motivation 
 Apart from being a project created to help me better understand the use of HTML, and CSS and introduce myself to JavaScript functions.
