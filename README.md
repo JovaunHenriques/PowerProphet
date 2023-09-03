@@ -5,12 +5,13 @@ This website is made with the purpose of monitoring and estimating the passive a
 ##Feature to be added for scalability
 
 1. Appliance Database:
-
 A comprehensive database of common household appliances and their power specifications (wattage and voltage). Include information on both standby and operational power consumption.
+
 2. User-Friendly Interface:
 
 Create an intuitive and easy-to-use interface for users to search for appliances or input their own data.
 Incorporate a search bar with auto-suggestions to help users find appliances quickly.
+
 3. Custom Appliance Input:
 
 Allow users to input data for appliances not found in the database. Include fields for name, wattage, and voltage.
