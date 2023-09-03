@@ -21,7 +21,7 @@ Provide the option to calculate daily, weekly, or monthly energy usage.
 
 5. Energy Cost Estimation:
 - Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
-<details>
+<details><br>
 6. Energy Efficiency Recommendations:
 - Offer tips and suggestions on how users can reduce their energy consumption and save on electricity bills.
 Provide information on energy-efficient appliances and their benefits.
