@@ -5,37 +5,37 @@ This website is made with the purpose of monitoring and estimating the passive a
 ##Feature to be added for scalability
 
 1. Appliance Database:
-A comprehensive database of common household appliances and their power specifications (wattage and voltage). Include information on both standby and operational power consumption.
+- A comprehensive database of common household appliances and their power specifications (wattage and voltage). Include information on both standby and operational power consumption.
 
 2. User-Friendly Interface:
-Create an intuitive and easy-to-use interface for users to search for appliances or input their own data.
+- An intuitive and easy-to-use interface for users to search for appliances or input their own data.
 Incorporate a search bar with auto-suggestions to help users find appliances quickly.
 
 3. Custom Appliance Input:
-Allow users to input data for appliances not found in the database. Include fields for name, wattage, and voltage.
+- Allow users to input data for appliances not found in the database. Include fields for name, wattage, and voltage.
 Implement a verification system for user-submitted data to maintain accuracy.
 
-5. Calculation Engine:
-
-Develop a robust calculation engine that accurately estimates power consumption based on user input and the appliance database.
+4. Calculation Engine:
+- A robust calculation engine that accurately estimates power consumption based on user input and the appliance database.
 Provide the option to calculate daily, weekly, or monthly energy usage.
+
 5. Energy Cost Estimation:
+- Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
 
-Integrate a feature that calculates the energy cost based on the user's location and the current electricity rates. Consider allowing users to input their specific electricity rates for accuracy.
 6. Energy Efficiency Recommendations:
-
-Offer tips and suggestions on how users can reduce their energy consumption and save on electricity bills.
+- Offer tips and suggestions on how users can reduce their energy consumption and save on electricity bills.
 Provide information on energy-efficient appliances and their benefits.
+
 7. User Accounts and Profiles:
-
-Implement user registration and profiles to save their appliance data and usage history.
+- Implement user registration and profiles to save their appliance data and usage history.
 Enable users to track their energy consumption trends over time.
+
 8. Responsive Design:
+- Ensure your website is mobile-friendly and works well on various devices and screen sizes.
 
-Ensure your website is mobile-friendly and works well on various devices and screen sizes.
 9. Scalable Infrastructure:
-
 Build your website on a scalable cloud infrastructure to handle increasing user traffic and data storage needs as the platform grows.
+
 10. API Integration:
 - Consider creating an API that allows other applications and websites to access your wattage/voltage estimation service, increasing your platform's reach.
 
