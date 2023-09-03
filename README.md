@@ -32,7 +32,7 @@ Enable users to track their energy consumption trends over time.
 
 8. Responsive Design:
 - Ensure your website is mobile-friendly and works well on various devices and screen sizes.
-</details>
+
 9. Scalable Infrastructure:
 Build your website on a scalable cloud infrastructure to handle increasing user traffic and data storage needs as the platform grows.
 
@@ -60,5 +60,6 @@ Build your website on a scalable cloud infrastructure to handle increasing user 
 - Develop a mobile app version of your website for on-the-go access.
 
 Remember to continuously update and improve your website based on user feedback and emerging technologies to ensure its long-term scalability and relevance in the field of energy efficiency.
+</details>
 ## Motivation 
-Apart from being a project created to help me better understand the use of HTML, CSS and introduce myself to JavaScript functions, 
+Apart from being a project created to help me better understand the use of HTML, and CSS and introduce myself to JavaScript functions.
