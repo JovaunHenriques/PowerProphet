@@ -64,3 +64,6 @@ Remember to continuously update and improve your website based on user feedback 
 </details><br>
 ## Motivation 
 Apart from being a project created to help me better understand the use of HTML, and CSS and introduce myself to JavaScript functions.
+## ScreenShot
+[Scanned Documents.pdf](https://github.com/JovaunHenriques/PowerProphet/files/12641389/Scanned.Documents.pdf)
+
