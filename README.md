@@ -64,3 +64,9 @@ Remember to continuously update and improve your website based on user feedback 
 </details><br>
 ## Motivation 
 Apart from being a project created to help me better understand the use of HTML, and CSS and introduce myself to JavaScript functions.
+
+## sketch
+
+![thumbnail_IMG_3402](https://github.com/JovaunHenriques/PowerProphet/assets/125087426/f71c20d5-0f73-43be-9637-4779024c25ae)
+
+
