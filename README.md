@@ -67,5 +67,5 @@ Apart from being a project created to help me better understand the use of HTML,
 
 ## sketch
 
-![thumbnail_IMG_3402](https://github.com/JovaunHenriques/PowerProphet/assets/125087426/fa7d85ea-82c0-411b-898b-856582b816fb)
+![thumbnail_IMG_3402](https://github.com/JovaunHenriques/PowerProphet/assets/125087426/cbb14a8a-049f-4286-ae1b-17a4220ec23b)
 
