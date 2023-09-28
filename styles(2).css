@@ -1,5 +1,5 @@
 .container {
-    max-width: 1200px;
+    max-width: 1100px;
     margin: 20px auto;
     display: flex;
     flex-wrap: wrap;
@@ -27,4 +27,10 @@
 
 .box p {
     font-size: 1rem;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #abcff8;
+    margin: 0;
+    padding: 0;
 }
