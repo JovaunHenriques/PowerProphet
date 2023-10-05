@@ -20,6 +20,8 @@ h1 {
 
 ul {
     list-style-type: none;
+    outline: auto;
+    outline-color: #7dc4da;
     margin: 0;
     padding: 0;
     overflow: hidden;
