@@ -1,6 +1,6 @@
 
 // Get the <a> element by its ID
-let wtf = document.getElementById("wtf");
+let wtf = document.getElementById("wtf","wfd","flw","ed");
 
 // This is the desired URL for your home page
 let homePageURL = "index.html";
@@ -11,22 +11,11 @@ if (window.location.href.endsWith(homePageURL)) {
   wtf.addEventListener("click", function(event) {
     let destinationURL = "./topFreezer.html";
     window.location.href = destinationURL;
-
     // Remove the click event listener to make the image non-clickable
+    
     wtf.removeEventListener("click", handleClick);
-  });
-
-  function handleClick(event) {
-    event.preventDefault(); // Prevent the default link behavior
-  }
-
-  // Add the initial click event listener
-  wtf.addEventListener("click", handleClick);
-} else {
-  // If not on the home page, disable the link completely
-  wtf.removeAttribute("href");
-  wtf.style.cursor = "default";
-}
+    
+  })}
 
 
 //this is where the js for the contactpage starts.
