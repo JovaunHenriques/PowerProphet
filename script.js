@@ -6,7 +6,7 @@ let wtf = document.getElementById("wtf","wfd","flw","ed");
 let homePageURL = "index.html";
 
 // Check if the current page's URL matches the home page URL
-if (window.location.href.endsWith(homePageURL)) {
+if (window.location.href.endsWith("./index.html")) {
   // If on the home page, add the click event listener
   wtf.addEventListener("click", function(event) {
     let destinationURL = "./topFreezer.html";
@@ -21,8 +21,9 @@ if (window.location.href.endsWith(homePageURL)) {
 //this is where the js for the contactpage starts.
 let contact =document.getElementById("contact");
 
-// link to the the contact page.
-let destinationURl2 = "./contactpage"
+ contact.addEventListener(click,function(){
+   window.open("./contactpage.html")
+ });
 
 document.getElementById("contact-form").addEventListener("submit", function(event) {
   event.preventDefault(); // Prevent the default form submission
